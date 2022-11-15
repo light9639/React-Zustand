@@ -5,7 +5,7 @@
 
 :sparkles: Zustand를 이용하여 만든 숫자 증가, 감소 예제입니다. :sparkles:
 
-## :tada: React 생성 및, Redux 설치
+## :tada: React 생성 
 - React 생성
 ```bash
 yarn create react-app my-app
