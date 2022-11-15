@@ -1,7 +1,7 @@
 # :zap: Zustand를 이용하여 만든 숫자 증가, 감소 예제
 :octocat: https://light9639.github.io/React-Zustand/
 
-![127 0 0 1_5500_zustand_dist_index html](https://user-images.githubusercontent.com/95972251/201679874-c0f4c945-9d3f-45b2-9082-174ceaa69eb2.png)
+![light9639 github io_React-Zustand_](https://user-images.githubusercontent.com/95972251/201828524-f7c939c8-528c-4845-8efd-3de6a6f5c13d.png)
 
 :sparkles: Zustand를 이용하여 만든 숫자 증가, 감소 예제입니다. :sparkles:
 
