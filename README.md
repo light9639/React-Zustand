@@ -26,6 +26,7 @@ yarn add zustand
 
 ## ✒️ App.jsx 작성
 ### :zap: App.jsx
+- `useStore` 함수를 만든 뒤 숫자 증가, 감소 함수를 만든다.
 ```bash
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
