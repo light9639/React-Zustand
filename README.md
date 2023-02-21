@@ -1,4 +1,4 @@
-# :zap: Zustand를 이용하여 만든 숫자 증가, 감소 예제
+# 📦️ Zustand를 이용하여 만든 숫자 증가, 감소 예제
 :octocat: https://light9639.github.io/React-Zustand/
 
 ![light9639 github io_React-Zustand_](https://user-images.githubusercontent.com/95972251/201828524-f7c939c8-528c-4845-8efd-3de6a6f5c13d.png)
