@@ -92,3 +92,6 @@ function App() {
 
 export default App
 ```
+## 📎 출처
+- <a href="https://www.youtube.com/watch?v=zNHZJ_iEMPA">리액트가 쉬워지는 채신기술 Zustand</a>
+- <a href="https://github.com/pmndrs/zustand">Github zustand Page</a>
